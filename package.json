@@ -1,0 +1,9 @@
+{
+  "name": "minimalist-nft-marketplace",
+  "version": "1.0.0",
+  "description": "Minimal fixed-price NFT marketplace contracts",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
